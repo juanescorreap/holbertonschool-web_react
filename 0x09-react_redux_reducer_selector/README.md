@@ -1,4 +1,4 @@
-# 0x08. React Redux action creator+normalizr
+# 0x09. React Redux reducer+selector
 
 Project developed by Juan Esteban Correa Pérez as part of the Web Stack specialization program at Holberton School.
 
